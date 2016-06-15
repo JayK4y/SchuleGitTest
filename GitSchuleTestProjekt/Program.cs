@@ -13,10 +13,10 @@ namespace GitSchuleTestProjekt
             int iInt = 1;
             string a = Console.ReadLine();
 
-            Console.WriteLine(iInt.ToString());
-            Console.WriteLine("jakob sucks");
             Console.WriteLine(a.ToString());
             Console.WriteLine("niklas sucks");
+            Console.WriteLine(iInt.ToString());
+            Console.WriteLine("jakob sucks");
         }
     }
 }
