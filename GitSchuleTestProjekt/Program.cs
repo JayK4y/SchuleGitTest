@@ -15,6 +15,8 @@ namespace GitSchuleTestProjekt
 
             Console.WriteLine(iInt.ToString());
             Console.WriteLine("jakob sucks");
+            Console.WriteLine(a.ToString());
+            Console.WriteLine("niklas sucks");
         }
     }
 }
