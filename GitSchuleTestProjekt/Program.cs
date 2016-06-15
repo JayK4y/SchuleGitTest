@@ -13,7 +13,7 @@ namespace GitSchuleTestProjekt
             string a = Console.ReadLine();
 
             Console.WriteLine(a.ToString());
-            Console.WriteLine("jakob sucks");
+            Console.WriteLine("niklas sucks");
         }
     }
 }
