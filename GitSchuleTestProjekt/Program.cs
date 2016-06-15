@@ -10,6 +10,7 @@ namespace GitSchuleTestProjekt
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("jakob sucks");
         }
     }
 }
