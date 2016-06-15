@@ -10,9 +10,10 @@ namespace GitSchuleTestProjekt
     {
         static void Main(string[] args)
         {
+            int iInt = 1;
             string a = Console.ReadLine();
 
-            Console.WriteLine(a.ToString());
+            Console.WriteLine(iInt.ToString());
             Console.WriteLine("jakob sucks");
         }
     }
